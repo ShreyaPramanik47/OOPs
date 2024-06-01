@@ -1,2 +1,2 @@
-# OOPs
-OOPs Notes for Placement Preparation. 
+# CS Fundumentals
+1. OOPs ( Handwritten Notes & Important questions || referencec: Gfg & Love babbar)
